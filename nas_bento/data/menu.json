@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "kategori": "set menu",
+      "nama": "Hoka Hemat 1",
+      "deskripsi": "HokBen special rice, salad, Ekkado and 3 Egg Chicken Roll *Salad for dine in only.",
+      "harga": 27500,
+      "gambar": "hoka_hemat1.jpg"
+    },
+    {
+      "kategori": "set menu",
+      "nama": "Hoka Hemat 2",
+      "deskripsi": "HokBen special rice, salad, 2 Tori Ball and 2 Egg Chicken Roll *Salad for dine in only.",
+      "harga": 27500,
+      "gambar": "hoka_hemat2.jpg"
+    },
+    {
+      "kategori": "set menu",
+      "nama": "Hoka Hemat 3",
+      "deskripsi": "HokBen special rice, salad, 2 Egg Chicken Roll and 2 Shrimp Roll.",
+      "harga": 27500,
+      "gambar": "hoka_hemat3.jpg"
+    },
+    {
+      "kategori": "ramen",
+      "nama": "Wafu Shoyu Ramen",
+      "deskripsi": "Ramen with savory shoyu sauce topped with Chicken Chasiu and Ni Tamago.",
+      "harga": 45000,
+      "gambar": "hoka_ramen1.jpg"
+    },
+    {
+      "kategori": "ramen",
+      "nama": "Spicy Ramen Reguler",
+      "deskripsi": "Ramen with a large portion of spicy chicken broth, topped with Chasiu Chicken, Ni Tamago, Pakcoy, green onions and sliced mushrooms.",
+      "harga": 38000,
+      "gambar": "hoka_ramen2.jpg"
+    },
+    {
+      "kategori": "ramen",
+      "nama": "Spicy Ramen Large",
+      "deskripsi": "Ramen with a large portion of spicy chicken broth, topped with Chasiu Chicken, Ni Tamago, Pakcoy, green onions and sliced mushrooms.",
+      "harga": 48000,
+      "gambar": "hoka_ramen3.jpg"
+    }
+  ]
+}

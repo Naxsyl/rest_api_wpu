@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Nasril",
+    "umur": 19,
+    "lulus": false,
+    "hobby": ["coding", "game", "anime"],
+    "guru": {
+      "namaguru1": "Bu Anggi",
+      "namaguru2": "Pak Pur"
+    }
+  },
+  {
+    "nama": "Bela",
+    "umur": 24,
+    "lulus": true,
+    "hobby": ["music", "makan", "anime"],
+    "guru": {
+      "namaguru3": "Bu Anggi",
+      "namaguru4": "Pak Pur"
+    }
+  }
+]
